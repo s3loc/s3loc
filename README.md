@@ -51,7 +51,7 @@
 
 <!-- İstatistikler ve GIF'ler -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 40px;">
-  <img src=" ![Uzay Ve Astronomi](https://github.com/user-attachments/assets/a658994a-cd84-4058-a273-4d8ab4fedeae)"
+  <img src="https://pin.it/1owbqaOno"
 height="400" alt="left-gif" style="border-radius: 10px;">
   
   <div style="max-width: 400px;">
