@@ -1,13 +1,3 @@
-AŞAĞIDA VERİLEN GİF URLERİNİ PROFİLİM SAĞ VE SOL BÖLGELERİNE EKLMENİ İSTİYORUM 
-
-<div style="padding-top:156.383%;position:relative;"><iframe src="https://gifer.com/embed/PcUC" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p> # SOL TARAFA EKLENECEK GİF
-
-<div style="padding-top:177.600%;position:relative;"><iframe src="https://gifer.com/embed/1apV" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>#SAĞ TARAFA EKLENECEK GİF 
-
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/7SIm" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p> # ALTRAFA EKLENECEK GİF
-
-
-EKLECEĞİN KOD PARÇASI ALT TARAFTA BULUNUYOR 
 
 
 <h1 align="center">
@@ -66,7 +56,4 @@ EKLECEĞİN KOD PARÇASI ALT TARAFTA BULUNUYOR
   
   <br/><br/><br/>
 </div>
-
-
-
-
+ <iframe src="https://gifer.com/embed/1apV" width=480 height=852.480 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
