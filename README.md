@@ -56,3 +56,8 @@
   
   <br/><br/><br/>
 </div>
+
+<div align="center" style="margin: 20px;">
+  <img src="https://media1.tenor.com/m/ppxPb7400C4AAAAC/chill-night.gif" alt="Chill Night Anime GIF" style="height: 400px; border-radius: 10px;" />
+</div>
+
