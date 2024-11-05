@@ -44,6 +44,7 @@
 
 
 
+![chill-night-glitch-pixel-art-jyasefmidungcb3c](https://github.com/user-attachments/assets/b97f568c-4908-4e5e-9988-74d971f3e29b)
 
 
 
@@ -57,4 +58,3 @@
   <br/><br/><br/>
 </div>
 
-<iframe src="https://giphy.com/embed/1yld7nW3oQ2IyRubUm" width="312" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1yld7nW3oQ2IyRubUm">via GIPHY</a></p>
