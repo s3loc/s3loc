@@ -3,14 +3,16 @@
 </p>
 
 <div align="center">
-
-| **🔭** I'm currently learning and looking for junior positions.     |
-|--------------------------------------------------------------------|
-| **🌱** I'm strengthening my knowledge in deep learning and Python.  |
-| **💬** If you'd like to collaborate on projects, you can reach out [here](https://www.linkedin.com/in/selman-vural/). |
-
+  <table>
+    <tr>
+      <td><strong>🔭</strong> I'm currently learning and looking for junior positions.</td>
+    </tr>
+    <tr>
+      <td><strong>🌱</strong> I'm strengthening my knowledge in deep learning and Python.</td>
+    </tr>
+    <tr>
+      <td><strong>💬</strong> If you'd like to collaborate on projects, you can reach out [here](https://www.linkedin.com/in/selman-vural/).</td>
+    </tr>
+  </table>
+  <img src="https://github.com/user-attachments/assets/d2d4c792-8d10-40b9-92ba-4d8fac0169a5" alt="steamuserimages-a akamaihd" style="display: block; margin-left: auto; margin-right: auto; max-height: 150px;">
 </div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d2d4c792-8d10-40b9-92ba-4d8fac0169a5" alt="steamuserimages-a akamaihd">
-</p>
