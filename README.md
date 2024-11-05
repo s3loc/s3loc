@@ -15,5 +15,5 @@
     </tr>
   </table>
 
-  <img src="https://github.com/user-attachments/assets/d2d4c792-8d10-40b9-92ba-4d8fac0169a5" alt="steamuserimages-a akamaihd" style="max-height: 150px; margin-left: 20px;">
+  <img src="https://github.com/user-attachments/assets/d2d4c792-8d10-40b9-92ba-4d8fac0169a5" alt="steamuserimages-a akamaihd" style="max-height: 150px; margin-left: 20px; display: inline-block;">
 </div>
