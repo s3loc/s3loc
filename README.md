@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/88cce844-c5e3-4ce7-ad37-7dc63a4651d0" alt="SELMAN VURAL">
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
 
   <table style="border-collapse: collapse; margin-right: 20px;">
     <tr>
