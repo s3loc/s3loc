@@ -2,9 +2,8 @@
   <img src="https://github.com/user-attachments/assets/88cce844-c5e3-4ce7-ad37-7dc63a4651d0" alt="SELMAN VURAL">
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  
-  <table>
+<div align="center">
+  <table style="display: inline-block;">
     <tr>
       <td><strong>🔭</strong> I'm currently learning and looking for junior positions.</td>
     </tr>
@@ -16,6 +15,5 @@
     </tr>
   </table>
 
-  <img src="https://github.com/user-attachments/assets/d2d4c792-8d10-40b9-92ba-4d8fac0169a5" alt="steamuserimages-a akamaihd" style="max-height: 150px; margin-left: 20px;">
-
+  <img src="https://github.com/user-attachments/assets/d2d4c792-8d10-40b9-92ba-4d8fac0169a5" alt="steamuserimages-a akamaihd" style="max-height: 150px; margin-left: 20px; display: inline-block;">
 </div>
