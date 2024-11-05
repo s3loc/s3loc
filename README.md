@@ -11,7 +11,7 @@
       <td style="padding: 10px;"><strong>🌱</strong> I'm strengthening my knowledge in deep learning and Python.</td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><strong>💬</strong> If you'd like to collaborate on projects, you can reach out [here](https://www.linkedin.com/in/selman-vural/).</td>
+      <td style="padding: 10px;"><strong>💬</strong> If you'd like to collaborate on projects, you can reach out <a href="https://www.linkedin.com/in/selman-vural/">here</a>.</td>
     </tr>
   </table>
 
