@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/88cce844-c5e3-4ce7-ad37-7dc63a4651d0" alt="SELMAN VURAL">
-</p>
+
 
 <div align="center" style="display: flex; align-items: center; justify-content: space-between;">
 
