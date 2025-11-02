@@ -1,11 +1,18 @@
-<div align="left">
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/e5d7809e-bf21-40c5-858d-8aebfcfd5d3a" width="360" style="margin-top:-20px;">
+</div>
 
 ## 👋 Selam, ben Selman Vural  
 Siber güvenlik, ağ sistemleri ve ileri otomasyon üzerine çalışıyorum.  
 
-Bağlantılarım:  
-[LinkedIn](https://www.linkedin.com/in/selman-vural/) • [GitHub](https://github.com/s3loc) • [varux.cyber](https://varuxcyber.com/)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/s3loc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/s3loc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://varux.cyber" target="_blank">
+    <img src="https://img.shields.io/badge/VARUX.CYBER-00FF99?style=for-the-badge&logo=vercel&logoColor=black">
+  </a>
 </div>
-
-<img align="right" src="https://github.com/user-attachments/assets/e5d7809e-bf21-40c5-858d-8aebfcfd5d3a" width="250">
