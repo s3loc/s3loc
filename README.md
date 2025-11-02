@@ -1,4 +1,4 @@
-<!-- VARUX | Minimal Türkçe Sürüm -->
+<!-- VARUX | Professional English Version -->
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e5d7809e-bf21-40c5-858d-8aebfcfd5d3a" width="320" style="border-radius:10px;">
@@ -7,8 +7,8 @@
     Selman Vural
   </h2>
   <p style="color:#ccc; font-size:14px;">
-    Siber Güvenlik Mühendisi • <b>VARUX</b> Kurucusu  
-    <br>Endüstriyel Ağ Güvenliği ve Otomasyon Sistemleri
+    Cybersecurity Engineer • Founder of <b>VARUX</b>  
+    <br>Industrial Network Security & Automation Systems
   </p>
 
   <a href="https://www.linkedin.com/in/s3loc">
@@ -24,15 +24,15 @@
 
 ---
 
-### ⚙️ Uzmanlık Alanları
-- Ağ ve OT Güvenlik Mimarisi  
-- Otonom Tehdit Tespiti  
-- Endüstriyel Zafiyet Analizi  
-- Güvenli Sistem Tasarımı ve Otomasyon  
+### ⚙️ Expertise
+- Network and OT Security Architecture  
+- Autonomous Threat Detection  
+- Industrial Vulnerability Assessment  
+- Secure System Design and Automation  
 
 ---
 
-### 🧩 Kullandığım Teknolojiler
+### 🧩 Technologies
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=00FF99)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=00CFFF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00CFFF)
@@ -42,12 +42,12 @@
 
 ---
 
-### 🔬 Öne Çıkan Projeler
+### 🔬 Featured Projects
 [![VARUX OT Discovery](https://github-readme-stats.vercel.app/api/pin/?username=s3loc&repo=varux-ot-discovery&theme=chartreuse-dark)](https://github.com/s3loc/varux-ot-discovery)
 [![Ultimate Security Scanner](https://github-readme-stats.vercel.app/api/pin/?username=s3loc&repo=varux-ultimate-security-scanner&theme=chartreuse-dark)](https://github.com/s3loc/varux-ultimate-security-scanner)
 
 ---
 
 <div align="center" style="margin-top:20px;">
-  <i style="color:#00FF99;">“Teknoloji sessizdir. Güvenlik yalnızca ihlal edildiğinde konuşur.”</i>
+  <i style="color:#00FF99;">“Technology remains silent. Security speaks only when breached.”</i>
 </div>
