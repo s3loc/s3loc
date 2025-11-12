@@ -45,8 +45,7 @@
 
 ### 🔬 Featured Projects
 [![VARUX OT Discovery](https://github-readme-stats.vercel.app/api/pin/?username=s3loc&repo=varux-ot-discovery&theme=chartreuse-dark)](https://github.com/s3loc/varux-ot-discovery)
-[![Ultimate Security Scanner](https://github-readme-stats.vercel.app/api/pin/?username=s3loc&repo=varux-ultimate-security-scanner&theme=chartreuse-dark)](https://github.com/s3loc/varux-ultimate-security-scanner)
-[![SS3 Intelligence Framework](https://github-readme-stats.vercel.app/api/pin/?username=s3loc&repo=SS3--main&theme=chartreuse-dark)](https://github.com/s3loc/SS3--main)
+
 
 ---
 
