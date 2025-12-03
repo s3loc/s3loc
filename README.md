@@ -21,15 +21,8 @@
   </a>
 </div>
 
----
 
-### ⚙️ Expertise
-- Advanced Network & OT Security Architecture  
-- Autonomous Threat Intelligence Systems  
-- Industrial Vulnerability Mapping  
-- Secure Automation & System Hardening  
 
----
 
 ### 🧩 Technologies
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=00FF99)
@@ -41,13 +34,7 @@
 ![Graphviz](https://img.shields.io/badge/Graphviz-000000?style=flat&logo=graphviz&logoColor=00CFFF)
 ![Scapy](https://img.shields.io/badge/Scapy-000000?style=flat&logo=python&logoColor=00FF99)
 
----
 
-### 🔬 Featured Projects
-[![VARUX OT Discovery](https://github-readme-stats.vercel.app/api/pin/?username=s3loc&repo=varux-ot-discovery&theme=chartreuse-dark)](https://github.com/s3loc/varux-ot-discovery)
-
-
----
 
 <div align="center" style="margin-top:25px;">
   <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached.”</i>
