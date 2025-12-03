@@ -23,19 +23,6 @@
 
 
 
-
-### 🧩 Technologies
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=00FF99)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=00CFFF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00CFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=00FF99)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=00CFFF)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=flat&logo=kalilinux&logoColor=00FF99)
-![Graphviz](https://img.shields.io/badge/Graphviz-000000?style=flat&logo=graphviz&logoColor=00CFFF)
-![Scapy](https://img.shields.io/badge/Scapy-000000?style=flat&logo=python&logoColor=00FF99)
-
-
-
 <div align="center" style="margin-top:25px;">
   <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached.”</i>
 </div>
