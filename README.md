@@ -10,7 +10,7 @@
     <br>Specialized in Industrial Network Security & Automation Systems
   </p>
 
-  <a href="https://www.linkedin.com/in/s3loc" target="_blank">
+  <a href="https://www.linkedin.com/in/selman-vural" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/s3loc" target="_blank">
