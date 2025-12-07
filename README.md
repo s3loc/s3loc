@@ -27,3 +27,6 @@
 <div align="center" style="margin-top:25px;">
   <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached.”</i>
 </div>
+
+
+![giphy](https://github.com/user-attachments/assets/a6f17e48-d8db-40b0-9f4e-e756461d0fad)
