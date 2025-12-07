@@ -1,100 +1,84 @@
-<!-- VARUX | AI Security & AI Agent Security Specialist -->
+<!-- Selman Vural | AI Security Specialist -->
 <div align="center">
-  <!-- AI Security temalı GIF - Değiştirmek isterseniz AI, cybersecurity, neural network temalı GIF'ler bulabilirsiniz -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius:12px;">
-
-  <h2 style="font-family:Orbitron, sans-serif; color:#00ff99; font-weight:700; letter-spacing:1px; margin-top:12px;">
-    Selman Vural
-  </h2>
   
-  <p style="color:#bbb; font-size:15px; line-height:1.6; max-width:800px; margin:10px auto;">
-    <span style="color:#00ff99; font-weight:bold;">AI Security Researcher</span> · 
-    <span style="color:#ff6b6b;">AI Agent Security Specialist</span> · 
-    Founder of <b style="color:#00ff99;">VARUX</b>
-    <br>
-    Securing Autonomous AI Systems & Protecting Digital Consciousness
+  <!-- Minimal AI Security temalı görsel -->
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="320" style="border-radius:8px; border:1px solid #333;">
+
+  <h1 style="font-family:system-ui,-apple-system,sans-serif; color:#fff; font-weight:600; margin-top:20px;">
+    Selman Vural
+  </h1>
+  
+  <h3 style="color:#00ff99; font-weight:500; margin-top:5px;">
+    AI Security & AI Agent Security Specialist
+  </h3>
+
+  <p style="color:#999; max-width:600px; margin:15px auto; line-height:1.6;">
+    Securing autonomous AI systems, protecting AI agents from adversarial attacks,<br>
+    and ensuring safe AI deployment in production environments.
   </p>
 
-  <!-- Teknoloji stack badge'leri -->
-  <div style="margin:15px 0;">
-    <img src="https://img.shields.io/badge/AI%20Agent%20Security-FF6B6B?style=flat-square&logo=openai&logoColor=white">
-    <img src="https://img.shields.io/badge/LLM%20Security-00B4D8?style=flat-square&logo=googletensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Autonomous%20Systems-9D4EDD?style=flat-square&logo=raspberrypi&logoColor=white">
-    <img src="https://img.shields.io/badge/Adversarial%20AI-FF9E00?style=flat-square&logo=amd&logoColor=white">
-  </div>
-
-  <!-- Sosyal bağlantılar -->
+  <!-- Minimal badge'ler -->
   <div style="margin:20px 0;">
-    <a href="https://www.linkedin.com/in/selman-vural" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/AI_Security-00ff99?style=flat&logo=ai&logoColor=black">
+    <img src="https://img.shields.io/badge/AI_Agent_Security-0066ff?style=flat&logo=openai&logoColor=white">
+    <img src="https://img.shields.io/badge/LLM_Security-ff3366?style=flat&logo=googletensorflow&logoColor=white">
+  </div>
+
+  <!-- Bağlantılar -->
+  <div>
+    <a href="https://www.linkedin.com/in/selman-vural" style="margin:0 8px;">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://github.com/s3loc" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/s3loc" style="margin:0 8px;">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://varuxcyber.com" target="_blank">
-      <img src="https://img.shields.io/badge/VARUX.AI-00ff99?style=for-the-badge&logo=vercel&logoColor=111111">
-    </a>
-    <a href="mailto:selman@varuxcyber.com" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="https://varuxcyber.com" style="margin:0 8px;">
+      <img src="https://img.shields.io/badge/-VARUX-00ff99?style=for-the-badge&logo=vercel&logoColor=111111">
     </a>
   </div>
+
 </div>
 
-<!-- Uzmanlık Alanları -->
-<div align="center" style="margin-top:30px; padding:20px; background: rgba(0, 255, 153, 0.05); border-radius:12px; max-width:900px; margin-left:auto; margin-right:auto;">
-  <h3 style="color:#00ff99; font-family:Orbitron, sans-serif;">🛡️ Specialization Areas</h3>
+<!-- Uzmanlık Alanları - Basit Liste -->
+<div align="center" style="margin-top:40px; max-width:700px; margin-left:auto; margin-right:auto;">
+  <h3 style="color:#fff; font-weight:500; border-bottom:2px solid #00ff99; padding-bottom:8px; display:inline-block;">
+    Focus Areas
+  </h3>
   
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-top:15px;">
-    <div style="background: rgba(255, 107, 107, 0.1); padding:12px 20px; border-radius:8px; border-left:4px solid #ff6b6b;">
-      <b style="color:#ff6b6b;">AI Agent Security</b><br>
-      <small style="color:#bbb;">Autonomous agent protection, prompt injection defense, agent hijacking prevention</small>
+  <div style="margin-top:20px; text-align:left; display:inline-block;">
+    <div style="margin:12px 0; color:#ccc;">
+      • <b style="color:#00ff99;">AI Agent Security</b> - Protecting autonomous AI agents
     </div>
-    
-    <div style="background: rgba(0, 180, 216, 0.1); padding:12px 20px; border-radius:8px; border-left:4px solid #00B4D8;">
-      <b style="color:#00B4D8;">LLM Security</b><br>
-      <small style="color:#bbb;">Model poisoning, data leakage prevention, ethical alignment</small>
+    <div style="margin:12px 0; color:#ccc;">
+      • <b style="color:#00ff99;">Prompt Security</b> - Preventing prompt injection attacks
     </div>
-    
-    <div style="background: rgba(157, 78, 221, 0.1); padding:12px 20px; border-radius:8px; border-left:4px solid #9D4EDD;">
-      <b style="color:#9D4EDD;">AI Supply Chain</b><br>
-      <small style="color:#bbb;">Model provenance, dependency security, pipeline integrity</small>
+    <div style="margin:12px 0; color:#ccc;">
+      • <b style="color:#00ff99;">Model Security</b> - Securing LLMs and AI models
     </div>
-    
-    <div style="background: rgba(255, 158, 0, 0.1); padding:12px 20px; border-radius:8px; border-left:4px solid #FF9E00;">
-      <b style="color:#FF9E00;">Adversarial AI</b><br>
-      <small style="color:#bbb;">Evasion attacks, model robustness, defensive strategies</small>
+    <div style="margin:12px 0; color:#ccc;">
+      • <b style="color:#00ff99;">AI Supply Chain</b> - Securing AI development pipelines
+    </div>
+    <div style="margin:12px 0; color:#ccc;">
+      • <b style="color:#00ff99;">Adversarial AI</b> - Defending against AI-specific attacks
     </div>
   </div>
 </div>
 
-<!-- Aktif Projeler/Çalışmalar -->
-<div align="center" style="margin-top:30px; max-width:900px; margin-left:auto; margin-right:auto;">
-  <h3 style="color:#00ff99; font-family:Orbitron, sans-serif;">🚀 Current Focus</h3>
+<!-- Aktif Çalışmalar -->
+<div align="center" style="margin-top:40px; max-width:700px; margin-left:auto; margin-right:auto;">
+  <h3 style="color:#fff; font-weight:500; border-bottom:2px solid #00ff99; padding-bottom:8px; display:inline-block;">
+    Current Projects
+  </h3>
   
-  <div style="text-align:left; color:#bbb; line-height:1.7; background: rgba(0, 0, 0, 0.3); padding:20px; border-radius:10px; margin-top:15px;">
-    • <b>AgentShield</b> - Autonomous AI agent security framework<br>
-    • <b>PromptFirewall</b> - Real-time prompt injection detection system<br>
-    • <b>ModelSentinel</b> - LLM model integrity verification tool<br>
-    • <b>AI Red Teaming</b> - Adversarial testing for AI systems<br>
-    • <b>Ethical Alignment</b> - Ensuring AI safety and compliance<br>
-    • <b>Research</b> - Novel attack vectors in multi-agent systems
+  <div style="margin-top:20px; color:#999; line-height:1.8;">
+    Developing security frameworks for AI agents<br>
+    Researching novel attack vectors in multi-agent systems<br>
+    Building tools for AI security testing<br>
+    Contributing to AI security standards
   </div>
 </div>
 
-<!-- Slogan/Quote -->
-<div align="center" style="margin-top:35px;">
-  <i style="color:#00ff99; font-size:14px; font-style:italic;">
-    "The next frontier of cybersecurity isn't about protecting systems from humans,<br> 
-    but protecting humans from autonomous systems that think."
-  </i>
-  
-  <div style="margin-top:20px; font-size:12px; color:#666;">
-    🔐 <i>Contributing to the future of safe & secure artificial intelligence</i>
-  </div>
-</div>
-
-<!-- GitHub İstatistikleri (Opsiyonel) -->
-<div align="center" style="margin-top:40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=s3loc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3loc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99" height="165">
+<!-- Quote -->
+<div align="center" style="margin-top:50px; padding:20px; color:#666; font-size:14px; font-style:italic;">
+  "In the age of AI, security isn't optional—it's existential."
 </div>
