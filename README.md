@@ -1,31 +1,27 @@
+<!-- VARUX | Professional English Version -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" style="border-radius:50%; border:3px solid #00ff99;">
-  
-  <h1 style="color:#fff; margin-top:20px;">Selman Vural</h1>
-  <h3 style="color:#00ff99; font-weight:400;">AI Security Researcher</h3>
-  
-  <p style="color:#aaa; max-width:500px; margin:20px auto;">
-    Specializing in AI Agent Security, LLM Security, and protecting<br>
-    autonomous systems from adversarial threats.
+  <!-- Doğrudan görsel URL'si kullanılmalı (örnekteki gibi) -->
+  <img src="https://github.com/user-attachments/assets/a6f17e48-d8db-40b0-9f4e-e756461d0fad" width="300" style="border-radius:12px;">
+
+  <h2 style="font-family:Orbitron; color:#00ff99; font-weight:700; letter-spacing:1px; margin-top:12px;">
+    Selman Vural
+  </h2>
+  <p style="color:#bbb; font-size:14px; line-height:1.5;">
+    Cybersecurity Engineer · Founder of <b style="color:#00ff99;">VARUX</b>  
+    <br>Specialized in Industrial Network Security & Automation Systems
   </p>
-  
-  <div style="margin:25px 0;">
-    <a href="https://linkedin.com/in/selman-vural">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://github.com/s3loc">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-    </a>
-    <a href="https://varuxcyber.com">
-      <img src="https://img.shields.io/badge/Website-00ff99?style=flat&logo=vercel&logoColor=black">
-    </a>
-  </div>
-  
-  <hr style="width:200px; border:none; border-top:1px solid #333; margin:30px auto;">
-  
-  <div style="color:#ccc; max-width:600px; margin:0 auto;">
-    <h4 style="color:#fff;">Expertise:</h4>
-    <p>AI Agent Security • Prompt Injection Defense • LLM Security<br>
-    Adversarial Machine Learning • AI Red Teaming</p>
-  </div>
+
+  <a href="https://www.linkedin.com/in/selman-vural" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/s3loc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://varuxcyber.com" target="_blank">
+    <img src="https://img.shields.io/badge/VARUX.CYBER-00ff99?style=for-the-badge&logo=vercel&logoColor=111111">
+  </a>
+</div>
+
+<div align="center" style="margin-top:25px;">
+  <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached.”</i>
 </div>
