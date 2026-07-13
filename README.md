@@ -13,9 +13,6 @@
     <a href="https://www.linkedin.com/in/selman-vural" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/s3loc" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
     <a href="https://varuxcyber.com" target="_blank">
       <img src="https://img.shields.io/badge/VARUX.CYBER-00ff99?style=for-the-badge&logo=vercel&logoColor=111111" alt="VARUX">
     </a>
