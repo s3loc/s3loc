@@ -1,7 +1,7 @@
 <!-- VARUX | Professional English Version -->
 <div align="center">
   <!-- Doğrudan görsel URL'si kullanılmalı (örnekteki gibi) -->
-  <img src="https://github.com/user-attachments/assets/a6f17e48-d8db-40b0-9f4e-e756461d0fad" width="300" style="border-radius:12px;">
+  <img width="300" style="border-radius:12px;" alt="72ab8e4d2b4303ce9fb514844363bee1" src="https://github.com/user-attachments/assets/f43d225a-6c58-4605-9c78-841637558880">
 
   <h2 style="font-family:Orbitron; color:#00ff99; font-weight:700; letter-spacing:1px; margin-top:12px;">
     Selman Vural
