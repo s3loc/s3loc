@@ -4,11 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=500&lines=Selman+Vural;VARUX+%7C+Cyber+Security" alt="Typing SVG" />
   </h1>
 
-  <img src="https://github.com/user-attachments/assets/06adfb4b-b8b6-4ad4-8970-e68e9e2906e2" width="250" style="border-radius:12px; box-shadow: 0 0 20px #00ff9940;" alt="matrix gif">
-
-  <p style="font-size:18px; color:#aaa; margin-top:10px;">
-    🔐 <b>Cybersecurity Engineer</b> · Founder of <b style="color:#00ff99;">VARUX</b>  
-    <br>⚙️ Industrial Network Security & Automation Systems
+  <p style="font-size:16px; color:#aaa;">
+    🔐 <b>Cybersecurity Engineer</b> · Founder of <b style="color:#00ff99;">VARUX</b><br>
+    ⚙️ Industrial Network Security & Automation Systems
   </p>
 
   <p>
@@ -23,17 +21,7 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=s3loc&show_icons=true&theme=radical&title_color=00ff99&icon_color=00ff99&text_color=ccc&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="160">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3loc&layout=compact&theme=radical&title_color=00ff99&text_color=ccc&bg_color=0d1117&hide_border=true" alt="Top Langs" height="160">
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=s3loc&color=00ff99&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
-
-  <hr style="border-color:#00ff9930; margin:20px 0;">
-
-
-  <br><br>
-  <i style="color:#00ff99; font-size:14px;">“Technology remains silent. Security speaks only when breached.”</i>
+  <br>
+  <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached.”</i>
 
 </div>
