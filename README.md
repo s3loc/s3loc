@@ -1,10 +1,10 @@
-<img width="600" height="338" alt="giphy" src="https://github.com/user-attachments/assets/94f05212-9f63-4750-8004-fecbc0dc827b" /><div align="center">
+<div align="center">
 
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=500&lines=Selman+Vural;VARUX+%7C+Cyber+Security" alt="Typing SVG" />
   </h1>
 
-  <img width="600" height="338" alt="giphy" src="https://github.com/user-attachments/assets/06adfb4b-b8b6-4ad4-8970-e68e9e2906e2" /> width="250" style="border-radius:12px; box-shadow: 0 0 20px #00ff9940;" alt="matrix gif">
+  <img src="https://github.com/user-attachments/assets/06adfb4b-b8b6-4ad4-8970-e68e9e2906e2" width="250" style="border-radius:12px; box-shadow: 0 0 20px #00ff9940;" alt="matrix gif">
 
   <p style="font-size:18px; color:#aaa; margin-top:10px;">
     🔐 <b>Cybersecurity Engineer</b> · Founder of <b style="color:#00ff99;">VARUX</b>  
@@ -32,14 +32,8 @@
 
   <hr style="border-color:#00ff9930; margin:20px 0;">
 
-  <img width="400" src="https://github.com/user-attachments/assets/ff526132-be17-4242-977d-7484ffd72bbd" style="border-radius:12px;" alt="VARUX visual">
 
   <br><br>
   <i style="color:#00ff99; font-size:14px;">“Technology remains silent. Security speaks only when breached.”</i>
 
 </div>
-
-
-
-
-
