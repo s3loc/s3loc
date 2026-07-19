@@ -19,6 +19,6 @@
   </p>
 
   <br>
-  <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached.”</i>
+  <i style="color:#00ff99; font-size:13px;">“Technology remains silent. Security speaks only when breached. ”</i>
 
 </div>
