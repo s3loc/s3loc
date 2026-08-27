@@ -1,41 +1,45 @@
-<div align="center">
+<h1 align="center">
 
-<img src="https://github.com/user-attachments/assets/e3b5e1fe-0b4c-47d6-b21f-1fe4d2023556" width="100%">
+&nbsp;&nbsp;&nbsp;&nbsp;VARUX&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><br>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=520&lines=Selman+Vural;Founder+%40+VARUX;Building+AXIS" alt="Typing SVG" />
-
+<p align="center">
 <a href="https://www.linkedin.com/in/selman-vural" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://varuxcyber.com" target="_blank">
   <img src="https://img.shields.io/badge/VARUX.CYBER-00ff99?style=flat-square&logo=vercel&logoColor=111111" alt="VARUX">
 </a>
-
-</div>
-
-<br>
-
-🔐 Founder of **VARUX**, building **AXIS** — a Rust-based PostgreSQL wire-protocol security proxy.
-Deterministic policy enforcement, hash-chain audit logging, zero-trust by default.
+</p>
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=rust,postgres,docker,ts,nextjs,linux,git&theme=dark" />
+### `whoami`
 
-</div>
+**Selman Vural** — Founder of **VARUX**, Cyber Security.
+
+Building **AXIS**, a Rust-based PostgreSQL wire-protocol security proxy: deterministic policy enforcement, hash-chain audit logging, zero-trust by default.
+
+Industrial network security & automation systems.
 
 <br>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" width="100%">
-</div>
+<i style="color:#00b36b;">"Technology remains silent. Security only speaks when breached."</i>
+
+</td>
+<td width="45%">
+
+<img src="assets/city_pixel.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-<i style="color:#00ff99;">"Technology remains silent. Security only speaks when breached."</i>
-</div>
+<img src="assets/sakura_pixel.gif" width="100%">
