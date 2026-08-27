@@ -1,2 +1,1 @@
-<img width="480" height="254" alt="giphy" src="https://github.com/user-attachments/assets/cb711393-f911-43ad-a04c-2bc8b20d1ce5" />
-
+<img width="500" height="475" alt="giphy" src="https://github.com/user-attachments/assets/fd5cd645-9d47-40e4-ba30-e1ab9f43c912" />
