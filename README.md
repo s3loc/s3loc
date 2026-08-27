@@ -34,7 +34,7 @@ Industrial network security & automation systems.
 </td>
 <td width="45%">
 
-<img src="assets/city_pixel.gif" width="100%">
+<img src="https://github.com/user-attachments/assets/3232468a-b44b-4c18-a4ab-469d23f162ad" width="100%">
 
 </td>
 </tr>
@@ -42,4 +42,4 @@ Industrial network security & automation systems.
 
 <br>
 
-<img src="assets/sakura_pixel.gif" width="100%">
+<img src="https://github.com/user-attachments/assets/ee2ebbc7-6f1b-4f34-b4f1-89e2540a2afd" width="100%">
