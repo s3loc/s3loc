@@ -6,18 +6,4 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Founder+%40+VARUX;Cybersecurity;Systems+Designer;Building+AXIS;Selman+Vural" />
 
-<br><br>
-
-  <a href="https://varuxcyber.com">
-    <img src="https://img.shields.io/badge/VARUX-00FF99?style=for-the-badge&logoColor=000000&labelColor=111111" />
-  </a>
-
-  <a href="https://varuxcyber.com/axis.html">
-    <img src="https://img.shields.io/badge/AXIS-00FF99?style=for-the-badge&logoColor=000000&labelColor=111111" />
-  </a>
-
-  <a href="https://github.com/varuxcyber">
-    <img src="https://img.shields.io/badge/VARUX_GitHub-00FF99?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" />
-  </a>
-
 </div>
