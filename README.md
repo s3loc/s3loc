@@ -8,7 +8,16 @@
 
 <br><br>
 
-<a href="https://varuxcyber.com">VARUX</a>
- ·  <a href="https://varuxcyber.com/axis.html">AXIS</a>
+  <a href="https://varuxcyber.com">
+    <img src="https://img.shields.io/badge/VARUX-00FF99?style=for-the-badge&logoColor=000000&labelColor=111111" />
+  </a>
+
+  <a href="https://varuxcyber.com/axis.html">
+    <img src="https://img.shields.io/badge/AXIS-00FF99?style=for-the-badge&logoColor=000000&labelColor=111111" />
+  </a>
+
+  <a href="https://github.com/varuxcyber">
+    <img src="https://img.shields.io/badge/VARUX_GitHub-00FF99?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" />
+  </a>
 
 </div>
