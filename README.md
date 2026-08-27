@@ -1,45 +1,43 @@
-<h1 align="center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;VARUX&nbsp;&nbsp;&nbsp;&nbsp;
-
-</h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/selman-vural" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://varuxcyber.com" target="_blank">
-  <img src="https://img.shields.io/badge/VARUX.CYBER-00ff99?style=flat-square&logo=vercel&logoColor=111111" alt="VARUX">
-</a>
-</p>
+<div align="center">
 
 <br>
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1000&color=00FF99&center=true&vCenter=true&repeat=false&width=440&lines=VARUX" alt="VARUX" />
 
-### `whoami`
+<sub>CYBER SECURITY &nbsp;·&nbsp; INDUSTRIAL NETWORK SECURITY</sub>
 
-**Selman Vural** — Founder of **VARUX**, Cyber Security.
+<br><br>
 
-Building **AXIS**, a Rust-based PostgreSQL wire-protocol security proxy: deterministic policy enforcement, hash-chain audit logging, zero-trust by default.
+<a href="https://varuxcyber.com"><img src="https://img.shields.io/badge/varuxcyber.com-000000?style=flat-square&logoColor=white" height="26"></a>
+<a href="https://www.linkedin.com/in/selman-vural"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF99" height="26"></a>
 
-Industrial network security & automation systems.
-
-<br>
-
-<i style="color:#00b36b;">"Technology remains silent. Security only speaks when breached."</i>
-
-</td>
-<td width="45%">
-
-<img src="https://github.com/user-attachments/assets/3232468a-b44b-4c18-a4ab-469d23f162ad" width="100%">
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/ee2ebbc7-6f1b-4f34-b4f1-89e2540a2afd" width="100%">
+## About
+
+I'm Selman Vural, founder of **VARUX**. I build **AXIS** — a Rust-based security proxy that sits in front of PostgreSQL and enforces policy at the wire-protocol level: deterministic rules, signed hash-chain audit logs, zero-trust by default.
+
+Small team, no shortcuts. Every claim we make about AXIS is backed by a test, a signed log, or raw command output — not a slide.
+
+<br>
+
+## Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=00FF99" height="26">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF99" height="26">
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF99" height="26">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF99" height="26">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00FF99" height="26">
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF99" height="26">
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>"Technology remains silent. Security only speaks when breached."</sub>
+</div>
